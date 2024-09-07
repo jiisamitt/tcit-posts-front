@@ -5,7 +5,7 @@ function App() {
 	return (
 		<div className="App">
 			{/* Header */}
-			<h2>Mis posts</h2>
+			<h2>My posts</h2>
 			{/* Post list/table with filter */}
 			<PostList />
 			{/* Create post with name and description text field and create button*/}
